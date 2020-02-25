@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rnappsyncsdk-dev-171407-authRole",
+            "UnauthRoleArn": "arn:aws:iam::453893404914:role/amplify-rnappsyncsdk-dev-171407-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::453893404914:role/amplify-rnappsyncsdk-dev-171407-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-rnappsyncsdk-dev-171407-deployment",
+            "UnauthRoleName": "amplify-rnappsyncsdk-dev-171407-unauthRole",
+            "StackName": "amplify-rnappsyncsdk-dev-171407",
+            "StackId": "arn:aws:cloudformation:us-west-2:453893404914:stack/amplify-rnappsyncsdk-dev-171407/a0e94020-5510-11ea-99e8-02bdb80754dc",
+            "AmplifyAppId": "d2vi7tg3z1ymv1"
+        }
+    }
+}
